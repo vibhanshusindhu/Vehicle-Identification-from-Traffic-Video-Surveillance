@@ -1,0 +1,5 @@
+classes = 4
+train = obj_data/obj_training.txt
+valid = obj_data/obj_testing.txt
+names = obj_data/obj.names
+backup = backup
